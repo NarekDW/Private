@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="junit_main" target="1.8" />
+      <module name="junit_test" target="1.8" />
+      <module name="Technologies_main" target="1.8" />
+      <module name="Technologies_test" target="1.8" />
+      <module name="uml_main" target="1.8" />
+      <module name="uml_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
